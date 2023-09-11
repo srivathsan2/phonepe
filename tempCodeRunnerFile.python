@@ -1,0 +1,11 @@
+import streamlit as st
+with st.sidebar:
+    selected = option_menu(None, ["Home","Extract","View","Data"],
+                           default_index=0,
+                           orientation="vertical",
+                           styles={"nav-link": {"font-size": "20px", "text-align": "centre", "margin": "2px", 
+                                                "--hover-color": "#8e44ad"},
+                                   "icon": {"font-size": "30px"},
+                                   "container" : {"max-width": "6000px"},
+                                   "nav-link-selected": {"background-color": "#8e44ad "}})
+st.write("hiii")

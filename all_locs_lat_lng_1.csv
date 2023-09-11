@@ -1,0 +1,575 @@
+,area,lat,lng
+0,"puducherry, India",10.91564885,79.80694879844232
+1,"tamil nadu, India",10.9094334,78.3665347
+2,"uttar pradesh, India",27.1303344,80.859666
+3,"madhya pradesh, India",23.8143419,77.5340719
+4,"andhra pradesh, India",15.9240905,80.1863809
+5,"tripura, India",23.7750823,91.7025091
+6,"lakshadweep, India",10.8132489,73.6804620941119
+7,"manipur, India",24.7208818,93.9229386
+8,"maharashtra, India",18.9068356,75.6741579
+9,"dadra & nagar haveli & daman & diu, India",20.3228008,72.9652007
+10,"meghalaya, India",25.5379432,91.2999102
+11,"andaman & nicobar islands, India",13.51111965,92.91738841784462
+12,"haryana, India",29.0,76.0
+13,"rajasthan, India",26.8105777,73.7684549
+14,"ladakh, India",33.9456407,77.6568576
+15,"punjab, India",30.9293211,75.5004841
+16,"assam, India",26.4073841,93.2551303
+17,"jharkhand, India",23.4559809,85.2557301
+18,"odisha, India",20.5431241,84.6897321
+19,"bihar, India",25.6440845,85.906508
+20,"kerala, India",10.3528744,76.5120396
+21,"karnataka, India",14.5203896,75.7223521
+22,"chandigarh, India",30.72984395,76.78414567016054
+23,"telangana, India",17.8495919,79.1151663
+24,"himachal pradesh, India",31.81676015,77.34932051968858
+25,"west bengal, India",22.9964948,87.6855882
+26,"gujarat, India",22.3850051,71.745261
+27,"sikkim, India",27.601029,88.45413638680145
+28,"nagaland, India",26.1630556,94.5884911
+29,"mizoram, India",23.2146169,92.8687612
+30,"chhattisgarh, India",21.6637359,81.8406351
+31,"jammu & kashmir, India",32.7185614,74.8580917
+32,"goa, India",15.3004543,74.0855134
+33,"arunachal pradesh, India",28.0937702,94.5921326
+34,"delhi, India",28.6517178,77.2219388
+35,"uttarakhand, India",30.0417376,79.089691
+36,"south andaman district, andaman-&-nicobar-islands",10.7056905,92.48746789633373
+37,"east godavari district, andhra-pradesh",17.233496,81.7225986
+38,"spsr nellore district, andhra-pradesh",14.71875825,79.65961022770595
+39,"vizianagaram district, andhra-pradesh",18.110744,83.386585
+40,"prakasam district, andhra-pradesh",15.2282086,79.87449940066091
+41,"ysr district, andhra-pradesh",17.0771387,81.6653938
+42,"west godavari district, andhra-pradesh",16.9550574,81.4530037
+43,"kurnool district, andhra-pradesh",15.8344103,78.0499956
+44,"chittoor district, andhra-pradesh",13.0108668,79.2249071
+45,"krishna district, andhra-pradesh",17.0347692,81.7819183
+46,"lower subansiri district, arunachal-pradesh",27.8,93.6
+47,"west siang district, arunachal-pradesh",28.4,94.55
+48,"upper siang district, arunachal-pradesh",28.6416983,95.0252232
+49,"tirap district, arunachal-pradesh",27.5013437,96.5242944
+50,"kurung kumey district, arunachal-pradesh",27.98636765,93.15783468644102
+51,"siang district, arunachal-pradesh",28.477491999999998,94.81655728795752
+52,"changlang district, arunachal-pradesh",27.272007000000002,96.06552596101915
+53,"pakke kessang district, arunachal-pradesh",27.1061731,92.9311395
+54,"dibang valley district, arunachal-pradesh",28.8291044,95.95540957636018
+55,"west kameng district, arunachal-pradesh",27.33862695,92.43336623881613
+56,"east siang district, arunachal-pradesh",28.3,95.15
+57,"upper subansiri district, arunachal-pradesh",28.3,94.0
+58,"east kameng district, arunachal-pradesh",27.55778095,92.96738426595107
+59,"lohit district, arunachal-pradesh",28.0060625,96.2431946
+60,"tawang district, arunachal-pradesh",27.674194200000002,91.93620587613823
+61,"tinsukia district, assam",27.597170900000002,95.56685292013799
+62,"lakhimpur district, assam",27.2382645,94.1053145
+63,"kamrup district, assam",26.2074223,91.6771799
+64,"karbi anglong district, assam",26.0,93.5
+65,"dibrugarh district, assam",27.4881672,95.3623358
+66,"golaghat district, assam",26.5305611,93.9603353
+67,"udalguri district, assam",26.70472375,92.04215071409463
+68,"cachar district, assam",25.083333,92.916667
+69,"dhemaji district, assam",27.5945155,94.71920979201423
+70,"karimganj district, assam",24.86648155,92.35121508187882
+71,"dima hasao district, assam",25.400362549999997,93.07522922678905
+72,"darrang district, assam",26.75,92.5
+73,"hailakandi district, assam",24.6827307,92.5622753
+74,"jorhat district, assam",26.7586112,94.20640848109767
+75,"purnia district, bihar",25.774436,87.410032125
+76,"nalanda district, bihar",25.4374355,85.2919909
+77,"nawada district, bihar",24.7270817,84.5693914
+78,"siwan district, bihar",26.166667,84.5
+79,"muzaffarpur district, bihar",26.1667052,85.4166314
+80,"patna district, bihar",25.46737665,85.19581528126407
+81,"rohtas district, bihar",24.93928775,84.01945448852067
+82,"begusarai district, bihar",25.5,86.25
+83,"sitamarhi district, bihar",26.666667,85.5
+84,"saran district, bihar",25.6085763,85.1993479
+85,"arwal district, bihar",25.2320301,84.6775384
+86,"vaishali district, bihar",25.696274,85.2228359
+87,"pashchim champaran district, bihar",27.0,84.5
+88,"gopalganj district, bihar",26.5,84.333333
+89,"lakhisarai district, bihar",25.2830169,86.0190997
+90,"aurangabad district, bihar",24.80340125,84.41113582469077
+91,"kaimur bhabua district, bihar",24.75750955,83.72099680873878
+92,"araria district, bihar",26.3415664,87.9374027
+93,"munger district, bihar",25.379510500000002,86.4626467597708
+94,"khagaria district, bihar",25.50877,86.4756484
+95,"saharsa district, bihar",25.8875611,86.5901104
+96,"bhagalpur district, bihar",25.0,86.916667
+97,"kishanganj district, bihar",26.29863795,87.95314810923409
+98,"gaya district, bihar",25.6058077,85.088915
+99,"samastipur district, bihar",25.75,85.916667
+100,"banka district, bihar",24.8926007,86.9140729
+101,"bhojpur district, bihar",25.25,84.25
+102,"dhamtari district, chhattisgarh",20.7077641,81.5396928
+103,"korba district, chhattisgarh",22.5198217,82.63500285150224
+104,"surajpur district, chhattisgarh",23.209675,82.880353
+105,"baloda bazar district, chhattisgarh",21.6632098,82.1493121
+106,"sukma district, chhattisgarh",18.3853241,81.65120264041536
+107,"raigarh district, chhattisgarh",22.23617945,83.35295335037318
+108,"jashpur district, chhattisgarh",22.8825209,84.1362145
+109,"surguja district, chhattisgarh",22.94691345,83.1656942260687
+110,"dantewada district, chhattisgarh",18.9090479,81.3427523
+111,"durg district, chhattisgarh",21.1874054,81.2793137
+112,"rajnandgaon district, chhattisgarh",21.166667,81.0
+113,"raipur district, chhattisgarh",21.2317387,81.6401796
+114,"narayanpur district, chhattisgarh",19.723781,81.2336786
+115,"kanker district, chhattisgarh",20.2647118,81.4951987
+116,"bilaspur district, chhattisgarh",22.4082821,82.3921724
+117,"balrampur district, chhattisgarh",23.616665,83.618798
+118,"bijapur district, chhattisgarh",18.7935679,80.815939
+119,"bemetara district, chhattisgarh",21.7020322,81.5337224
+120,"bastar district, chhattisgarh",19.25,81.25
+121,"mahasamund district, chhattisgarh",21.113837,82.092952
+122,"diu district, dadra-&-nagar-haveli-&-daman-&-diu",20.7159534,70.9785005
+123,"daman district, dadra-&-nagar-haveli-&-daman-&-diu",20.416667,72.883333
+124,"south district, delhi",28.594493550000003,76.90650844057825
+125,"central district, delhi",11.0121503,76.962482
+126,"new delhi district, delhi",-46.34764905,168.01960773993056
+127,"west district, delhi",28.594493550000003,76.90650844057825
+128,"south west district, delhi",28.594493550000003,76.90650844057825
+129,"south east delhi district, delhi",28.5844558,77.2248024
+130,"shahdara district, delhi",28.7026978,77.2919762
+131,"north east district, delhi",28.699998,77.2709397
+132,"east district, delhi",28.6316855,77.330701
+133,"north district, delhi",-39.0348782,177.4255459
+134,"north goa district, goa",24.9785727,121.5822385
+135,"south goa district, goa",15.29079185,73.9549078343693
+136,"anand district, gujarat",22.4742502,72.7367582116444
+137,"jamnagar district, gujarat",22.31008,70.10300203232322
+138,"devbhumi dwarka district, gujarat",22.244475899999998,68.96800187672852
+139,"rajkot district, gujarat",22.5307441,70.3025758
+140,"botad district, gujarat",22.0456765,71.67217572593728
+141,"bharuch district, gujarat",21.82728385,72.89461378721509
+142,"bhavnagar district, gujarat",21.562289149999998,71.90747307960464
+143,"junagadh district, gujarat",21.340255,70.42022268315017
+144,"mahesana district, gujarat",23.57070915,72.44523648734277
+145,"the dangs district, gujarat",20.75,73.75
+146,"kheda district, gujarat",22.854870499999997,72.99330606361002
+147,"surat district, gujarat",21.4626896,72.9515165
+148,"porbandar district, gujarat",21.6021982,69.85433746437499
+149,"gandhinagar district, gujarat",23.281326200000002,72.65577884095586
+150,"panch mahals district, gujarat",23.0,74.0
+151,"narmada district, gujarat",21.738303950000002,73.62736015921328
+152,"gir somnath district, gujarat",20.9911049,70.68806405046848
+153,"valsad district, gujarat",20.3828686,72.9038814
+154,"mahisagar district, gujarat",23.1916967,73.6626352964019
+155,"sabar kantha district, gujarat",23.8689411,73.01447412154508
+156,"tapi district, gujarat",21.1909141,73.55541085745186
+157,"vadodara district, gujarat",22.3182519,73.30458875965446
+158,"banas kantha district, gujarat",24.26960875,72.16210994579416
+159,"amreli district, gujarat",21.4191439,71.25276407265991
+160,"ahmadabad district, gujarat",23.0216238,72.5797068
+161,"navsari district, gujarat",20.952407,72.9323831
+162,"patan district, gujarat",20.96661175,70.42921752675778
+163,"kachchh district, gujarat",23.2396061,69.6734288
+164,"surendranagar district, gujarat",22.823085,71.55342628734127
+165,"morbi district, gujarat",22.79314,70.88832711034716
+166,"jind district, haryana",29.5,76.25
+167,"rohtak district, haryana",28.8995429,76.5844714
+168,"faridabad district, haryana",28.3526818,77.2778173
+169,"hisar district, haryana",29.1699202,75.7185553
+170,"karnal district, haryana",29.6943382,77.00424800442084
+171,"charkhi dadri district, haryana",28.6508033,76.2406402
+172,"ambala district, haryana",28.9841361,75.6039914
+173,"rewari district, haryana",28.2169291,76.58118448832133
+174,"panchkula district, haryana",30.7108567,76.845983
+175,"bhiwani district, haryana",28.731232499999997,75.892349866212
+176,"gurugram district, haryana",28.4492944,77.03065871006021
+177,"kurukshetra district, haryana",30.0,76.75
+178,"sirmaur district, himachal-pradesh",30.75,77.5
+179,"shimla district, himachal-pradesh",31.23957275,77.71979337036089
+180,"bilaspur district, himachal-pradesh",32.4447854,76.0817063
+181,"hamirpur district, himachal-pradesh",31.7491333,76.5036832
+182,"una district, himachal-pradesh",31.4674349,76.2650802
+183,"kangra district, himachal-pradesh",32.213356899999994,76.32112520307928
+184,"mandi district, himachal-pradesh",32.5338976,76.0157454
+185,"chamba district, himachal-pradesh",32.69301,76.16363499125694
+186,"kinnaur district, himachal-pradesh",31.5864184,78.396745
+187,"doda district, jammu-&-kashmir",33.13260995,75.58900789003377
+188,"samba district, jammu-&-kashmir",32.57591175,75.12034455530063
+189,"mirpur district, jammu-&-kashmir",33.1084201,73.7092116
+190,"srinagar district, jammu-&-kashmir",34.1178785,74.96591887169342
+191,"baramulla district, jammu-&-kashmir",34.17740315,74.31500483039531
+192,"jammu district, jammu-&-kashmir",32.7681864,74.92113175477952
+193,"ganderbal district, jammu-&-kashmir",34.288932200000005,75.04079833889585
+194,"udhampur district, jammu-&-kashmir",32.911964,75.32658448914768
+195,"bandipore district, jammu-&-kashmir",34.4563234,74.68249997667994
+196,"reasi district, jammu-&-kashmir",33.20599085,74.862679360101
+197,"shopian district, jammu-&-kashmir",33.72078365,74.77142439698211
+198,"poonch district, jammu-&-kashmir",33.702939,74.24990151547188
+199,"kathua district, jammu-&-kashmir",32.5825837,75.61047967120052
+200,"kishtwar district, jammu-&-kashmir",33.61562,75.87939724344325
+201,"pulwama district, jammu-&-kashmir",33.9490472,75.04183347471374
+202,"ramban district, jammu-&-kashmir",33.33328915,75.19847626653356
+203,"rajouri district, jammu-&-kashmir",33.26636775,74.34384695789798
+204,"kulgam district, jammu-&-kashmir",33.6250187,74.69494583281318
+205,"budgam district, jammu-&-kashmir",33.9098746,74.6270356734338
+206,"anantnag district, jammu-&-kashmir",33.8096849,75.24945269877892
+207,"kupwara district, jammu-&-kashmir",34.5140696,74.19136702721829
+208,"ranchi district, jharkhand",23.0,85.0
+209,"dumka district, jharkhand",24.26618475,87.25313851905128
+210,"gumla district, jharkhand",23.1603759,84.45995652080032
+211,"chatra district, jharkhand",24.9303981,87.82697147981766
+212,"dhanbad district, jharkhand",25.187490949999997,87.74432799719577
+213,"godda district, jharkhand",25.11121955,87.58200008938437
+214,"palamu district, jharkhand",23.916667,84.083333
+215,"sahebganj district, jharkhand",25.2410414,87.6342904
+216,"giridih district, jharkhand",24.25,85.916667
+217,"mysuru district, karnataka",12.198843400000001,76.61353212165531
+218,"chitradurga district, karnataka",14.3051049,76.52948762295526
+219,"kalaburagi district, karnataka",17.24191785,76.7753828143516
+220,"ramanagara district, karnataka",12.72465905,77.32018505519862
+221,"mandya district, karnataka",12.6336348,76.73023183296073
+222,"kodagu district, karnataka",12.2335192,76.2818865
+223,"chikkamagaluru district, karnataka",13.400575100000001,75.6327382353719
+224,"haveri district, karnataka",14.714635000000001,75.38456743047416
+225,"ballari district, karnataka",15.34594225,76.82043303614613
+226,"belagavi district, karnataka",15.8572666,74.5069343
+227,"kolar district, karnataka",13.1794187,78.26805837975584
+228,"uttara kannada district, karnataka",14.724474149999999,74.64223734496612
+229,"tumakuru district, karnataka",13.3400771,77.1006208
+230,"yadgir district, karnataka",16.7670964,77.1403984
+231,"bengaluru urban district, karnataka",12.8660981,77.4366536
+232,"chikkaballapura district, karnataka",13.5883185,77.78043012088901
+233,"davanagere district, karnataka",14.250412650000001,75.82562831445583
+234,"bagalkote district, karnataka",16.28998085,75.58255865030114
+235,"vijayapura district, karnataka",16.811059649999997,75.89714732778502
+236,"koppal district, karnataka",15.57825725,76.31063911702896
+237,"bidar district, karnataka",18.02315245,77.249718672587
+238,"raichur district, karnataka",16.054719400000003,76.90160088383311
+239,"chamarajanagara district, karnataka",11.9238058,76.9393558
+240,"dakshina kannada district, karnataka",12.82133045,75.22767162650372
+241,"hassan district, karnataka",13.029374,76.17429357550145
+242,"dharwad district, karnataka",15.37259455,75.13728310525259
+243,"shivamogga district, karnataka",14.0558284,75.13125339938858
+244,"udupi district, karnataka",13.526175049999999,74.87325316307695
+245,"gadag district, karnataka",15.416336999999999,75.68075427946448
+246,"thiruvananthapuram district, kerala",10.6207081,76.1281782
+247,"kasaragod district, kerala",12.42219635,75.19044457747756
+248,"malappuram district, kerala",10.61381845,76.51663324239766
+249,"pathanamthitta district, kerala",9.32608185,76.68164238146089
+250,"wayanad district, kerala",11.2554224,75.78162653483244
+251,"alappuzha district, kerala",9.4062067,76.41140427598785
+252,"kozhikode district, kerala",11.465593550000001,75.89194000061082
+253,"kollam district, kerala",8.8855684,76.5892353
+254,"thrissur district, kerala",10.4786547,76.27261253399872
+255,"palakkad district, kerala",10.78736915,76.47421718925105
+256,"kannur district, kerala",11.9863343,75.54797042899436
+257,"kottayam district, kerala",9.7375408,76.5130465
+258,"ernakulam district, kerala",10.038394700000001,76.50741452482532
+259,"idukki district, kerala",10.0837853,76.3146344
+260,"kargil district, ladakh",33.802819,76.4730095688732
+261,"leh ladakh district, ladakh",34.1642029,77.5848133
+262,"morena district, madhya-pradesh",26.4961372,77.9986659
+263,"alirajpur district, madhya-pradesh",22.3118775,74.3555894
+264,"sehore district, madhya-pradesh",23.1981078,77.0812948
+265,"rajgarh district, madhya-pradesh",25.3338446,77.5083732
+266,"khargone district, madhya-pradesh",21.8318939,75.6286115
+267,"satna district, madhya-pradesh",24.5684403,80.8321439
+268,"narsinghpur district, madhya-pradesh",22.9492648,79.1856846
+269,"jabalpur district, madhya-pradesh",23.22420115,79.98248901574848
+270,"hoshangabad district, madhya-pradesh",22.7575717,77.7188006
+271,"vidisha district, madhya-pradesh",23.5200947,77.8085902
+272,"balaghat district, madhya-pradesh",21.8611181,80.32141872874212
+273,"betul district, madhya-pradesh",21.9034464,77.8983504
+274,"sidhi district, madhya-pradesh",22.7018563,75.86663524861918
+275,"datia district, madhya-pradesh",25.6406595,78.4559832
+276,"dewas district, madhya-pradesh",22.9622115,76.048227
+277,"sheopur district, madhya-pradesh",25.6760912,76.7120469
+278,"raisen district, madhya-pradesh",23.3331473,77.7801239
+279,"mandsaur district, madhya-pradesh",24.0697229,75.0727169
+280,"barwani district, madhya-pradesh",22.7246439,75.8887036
+281,"katni district, madhya-pradesh",23.8323636,80.3920242
+282,"dindori district, madhya-pradesh",22.9461776,81.0751985
+283,"shivpuri district, madhya-pradesh",25.37524125,77.82811932629714
+284,"gwalior district, madhya-pradesh",26.2,78.2
+285,"ashoknagar district, madhya-pradesh",24.57719,77.73266519115776
+286,"sagar district, madhya-pradesh",21.5479393,79.5481447
+287,"niwari district, madhya-pradesh",25.5575031,78.1466102
+288,"rewa district, madhya-pradesh",23.168924699999998,80.03308113718485
+289,"shajapur district, madhya-pradesh",23.4207601,76.27436
+290,"ujjain district, madhya-pradesh",22.8633236,75.8543994
+291,"bhind district, madhya-pradesh",26.565863999999998,78.78272299028693
+292,"tikamgarh district, madhya-pradesh",24.7712387,78.835802
+293,"seoni district, madhya-pradesh",21.6843487,80.2715206
+294,"harda district, madhya-pradesh",22.3406138,77.0934034
+295,"damoh district, madhya-pradesh",21.8979776,80.7917082
+296,"bhopal district, madhya-pradesh",23.2301418,77.4179774
+297,"jhabua district, madhya-pradesh",22.6579114,75.8850109
+298,"dhar district, madhya-pradesh",22.7109387,75.8334557
+299,"guna district, madhya-pradesh",24.646649,77.3079412
+300,"east nimar district, madhya-pradesh",21.75,76.583333
+301,"chhindwara district, madhya-pradesh",22.0509324,78.939744
+302,"umaria district, madhya-pradesh",23.5255015,80.8343366
+303,"mandla district, madhya-pradesh",22.5962197,80.3702688
+304,"indore district, madhya-pradesh",22.71113445,75.80768747988787
+305,"shahdol district, madhya-pradesh",23.3104023,81.3702978
+306,"ratlam district, madhya-pradesh",22.71673845,75.88149165574566
+307,"panna district, madhya-pradesh",24.7172329,80.1873717
+308,"chhatarpur district, madhya-pradesh",24.9072406,79.5844054
+309,"latur district, maharashtra",18.3931679,76.56402547242254
+310,"thane district, maharashtra",19.196821749999998,72.9786988514791
+311,"bhandara district, maharashtra",21.1596616,79.6527375
+312,"nandurbar district, maharashtra",21.3386847,74.2344823
+313,"chandrapur district, maharashtra",19.9648425,79.2914735
+314,"kolhapur district, maharashtra",16.5756833,74.3125599
+315,"solapur district, maharashtra",17.2350728,76.556349
+316,"mumbai district, maharashtra",19.0517979,72.8292773
+317,"sindhudurg district, maharashtra",16.11617835,73.69000425158009
+318,"dhule district, maharashtra",20.9257339,74.7771388
+319,"wardha district, maharashtra",20.73775615,78.60316842982326
+320,"parbhani district, maharashtra",19.2713708,76.7644813
+321,"hingoli district, maharashtra",19.7222317,77.1544772
+322,"ratnagiri district, maharashtra",16.9883802,73.2993118160657
+323,"nanded district, maharashtra",19.15915835,77.3032699373139
+324,"osmanabad district, maharashtra",18.18788,76.035779
+325,"nagpur district, maharashtra",21.1170373,79.1045331
+326,"nashik district, maharashtra",19.9969676,73.7782466
+327,"akola district, maharashtra",20.7141213,77.0065838
+328,"yavatmal district, maharashtra",20.3908238,78.1324077
+329,"aurangabad district, maharashtra",19.8717769,75.32107600291363
+330,"amravati district, maharashtra",20.9376684,77.7781055
+331,"washim district, maharashtra",20.1224632,77.1311174
+332,"sangli district, maharashtra",16.8425456,74.60920165585244
+333,"gadchiroli district, maharashtra",20.1700227,79.97914161206661
+334,"jalna district, maharashtra",19.83228,75.874466
+335,"ahmednagar district, maharashtra",19.108436,74.735394
+336,"pune district, maharashtra",18.527863,73.85568328231989
+337,"beed district, maharashtra",18.9869163,75.7533207
+338,"satara district, maharashtra",17.6913198,74.0094374
+339,"thoubal district, manipur",24.84529,94.1449785
+340,"ukhrul district, manipur",25.311073800000003,94.47537752375742
+341,"tamenglong district, manipur",24.9855683,93.5025164
+342,"kamjong district, manipur",25.0,94.5
+343,"bishnupur district, manipur",24.6319847,93.7619193
+344,"senapati district, manipur",25.333333,94.166667
+345,"churachandpur district, manipur",24.3429852,93.6928709
+346,"serchhip district, mizoram",23.3078982,92.8556728
+347,"mamit district, mizoram",23.909285,92.4947387
+348,"lawngtlai district, mizoram",22.7401468,93.0509285
+349,"kolasib district, mizoram",24.2314023,92.6766193
+350,"champhai district, mizoram",23.481,93.309599
+351,"mon district, nagaland",26.7238973,95.0287876
+352,"phek district, nagaland",25.709953650000003,94.46436151085854
+353,"longleng district, nagaland",26.4929778,94.8042633
+354,"kiphire district, nagaland",25.8826359,94.781588
+355,"kohima district, nagaland",25.6949988,94.12330065485534
+356,"tuensang district, nagaland",26.25,94.75
+357,"peren district, nagaland",25.5354667,93.7352403
+358,"dimapur district, nagaland",25.904959,93.731523
+359,"zunheboto district, nagaland",26.0030617,94.5236166
+360,"wokha district, nagaland",26.079343100000003,94.25912545270481
+361,"rayagada district, odisha",19.1643623,83.4077243
+362,"koraput district, odisha",18.8848483,82.5596997
+363,"malkangiri district, odisha",18.33798,81.8759462
+364,"sambalpur district, odisha",21.4,83.883333
+365,"kalahandi district, odisha",19.75,83.0
+366,"ganjam district, odisha",19.5,84.5
+367,"bargarh district, odisha",21.40164,83.5826487
+368,"dhenkanal district, odisha",20.6590059,85.5813728
+369,"bhadrak district, odisha",21.0654838,86.5025885
+370,"nuapada district, odisha",20.7990808,82.5346304
+371,"mayurbhanj district, odisha",21.9520493,86.73841676663528
+372,"jharsuguda district, odisha",21.8895058,84.0485068
+373,"sundargarh district, odisha",22.25,84.5
+374,"balangir district, odisha",20.7502257,83.2499464
+375,"baleshwar district, odisha",21.5,86.75
+376,"puri district, odisha",19.8142712,85.8299503
+377,"sonepur district, odisha",20.843129400000002,83.90634540989736
+378,"gajapati district, odisha",18.7716498,84.0968126
+379,"nayagarh district, odisha",20.1280409,85.1066485
+380,"nabarangpur district, odisha",19.2288319,82.5668344
+381,"kendrapara district, odisha",20.5021306,86.4259806
+382,"karaikal district, puducherry",10.91564885,79.80694879844232
+383,"puducherry district, puducherry",11.92201155,79.7951365161579
+384,"yanam district, puducherry",16.7332235,82.2018117763748
+385,"mahe district, puducherry",11.70086195,75.53600908707303
+386,"fazilka district, punjab",30.336099599999997,74.11794319222481
+387,"ludhiana district, punjab",30.479765,74.5354916
+388,"sri muktsar sahib district, punjab",30.283140099999997,74.52299719797392
+389,"patiala district, punjab",30.1407973,74.2001558
+390,"pathankot district, punjab",32.301710400000005,75.65864246622084
+391,"rupnagar district, punjab",30.2102325,73.9925288
+392,"tarn taran district, punjab",31.32124525,74.84130629340785
+393,"bathinda district, punjab",30.20378255,74.95031921693888
+394,"kapurthala district, punjab",31.25,75.25
+395,"gurdaspur district, punjab",31.904229899999997,75.22738141098935
+396,"amritsar district, punjab",31.3410997,74.6891758
+397,"moga district, punjab",32.033379,75.3949932
+398,"pali district, rajasthan",25.6051226,73.41650554658088
+399,"ganganagar district, rajasthan",29.5,74.0
+400,"churu district, rajasthan",28.20477805,74.69129960764752
+401,"jaipur district, rajasthan",27.1506772,75.74701641691182
+402,"baran district, rajasthan",24.92077465,76.68218371245564
+403,"bhilwara district, rajasthan",25.4889628,74.71640140204903
+404,"banswara district, rajasthan",23.4929453,74.34980159827685
+405,"dungarpur district, rajasthan",23.672305299999998,73.81664192753466
+406,"tonk district, rajasthan",26.122319750000003,75.66322349035153
+407,"jodhpur district, rajasthan",26.73668055,72.87475506802181
+408,"karauli district, rajasthan",26.51583285,77.05659651705874
+409,"udaipur district, rajasthan",24.453502,73.65234711743422
+410,"dausa district, rajasthan",26.80486585,76.44374569929329
+411,"nagaur district, rajasthan",27.058906049999997,74.1760832159963
+412,"bharatpur district, rajasthan",27.2662364,77.36917930978375
+413,"barmer district, rajasthan",25.583255049999998,71.6192556088008
+414,"ajmer district, rajasthan",26.33188715,74.71697524629388
+415,"chittorgarh district, rajasthan",24.7167691,74.47217477196013
+416,"hanumangarh district, rajasthan",29.3659533,74.29842896506344
+417,"pratapgarh district, rajasthan",24.021811749999998,74.62410748793954
+418,"sawai madhopur district, rajasthan",26.22901855,76.3043561491013
+419,"jalore district, rajasthan",24.71390345,72.51687040035749
+420,"bikaner district, rajasthan",28.116161650000002,73.11056700494197
+421,"sikar district, rajasthan",27.66241555,75.02799709983499
+422,"sirohi district, rajasthan",24.811404699999997,72.83002573160249
+423,"rajsamand district, rajasthan",25.2892459,73.8241077454327
+424,"jaisalmer district, rajasthan",27.0264162,70.77751197645885
+425,"bundi district, rajasthan",25.4367659,75.736147085863
+426,"jhalawar district, rajasthan",24.31255575,76.52279955036622
+427,"alwar district, rajasthan",27.638573450000003,76.61404271796437
+428,"kota district, rajasthan",25.196682950000003,76.00096873038872
+429,"south district, sikkim",27.333333,88.416667
+430,"west district, sikkim",27.41851735,88.18083382964556
+431,"east district, sikkim",27.3338349,88.614658
+432,"north district, sikkim",27.666667,88.5
+433,"tiruchirappalli district, tamil-nadu",10.85046075,78.72453299229292
+434,"ramanathapuram district, tamil-nadu",9.5205576,78.51846345155016
+435,"krishnagiri district, tamil-nadu",12.515055499999999,78.00762134333985
+436,"cuddalore district, tamil-nadu",11.52020705,79.33963564750636
+437,"kancheepuram district, tamil-nadu",12.87960515,79.70427615297989
+438,"tiruppur district, tamil-nadu",10.791526650000002,77.53254662905589
+439,"dharmapuri district, tamil-nadu",12.14561305,78.11322171666458
+440,"thoothukkudi district, tamil-nadu",8.84570345,77.99381783527917
+441,"thanjavur district, tamil-nadu",10.65903695,79.20142776213416
+442,"madurai district, tamil-nadu",9.9369266,78.00782300920798
+443,"tiruvannamalai district, tamil-nadu",12.22713775,79.07012882091152
+444,"salem district, tamil-nadu",11.64696155,78.21069575456464
+445,"nagapattinam district, tamil-nadu",10.60262025,79.7619347994777
+446,"tirupathur district, tamil-nadu",12.453306399999999,78.55290857022919
+447,"ariyalur district, tamil-nadu",11.1530559,79.25857973608959
+448,"chennai district, tamil-nadu",13.05843605,80.23610502517248
+449,"the nilgiris district, tamil-nadu",11.4449997,76.69751997973526
+450,"erode district, tamil-nadu",11.49052815,77.35052739885393
+451,"karur district, tamil-nadu",10.821767099999999,78.38286541157868
+452,"kallakkurichi district, tamil-nadu",11.690524,78.98242156692304
+453,"viluppuram district, tamil-nadu",12.11669665,79.59892355244544
+454,"pudukkottai district, tamil-nadu",10.2903072,78.81736165831396
+455,"perambalur district, tamil-nadu",11.2902641,78.9300404012642
+456,"coimbatore district, tamil-nadu",10.812444500000002,77.07960840743995
+457,"virudhunagar district, tamil-nadu",9.4926289,77.86318306460637
+458,"dindigul district, tamil-nadu",10.425689649999999,77.815663999998
+459,"sivaganga district, tamil-nadu",9.851231,78.53047154820717
+460,"tenkasi district, tamil-nadu",9.0933908,77.47583730587374
+461,"chengalpattu district, tamil-nadu",12.636245,80.0653519331311
+462,"kanniyakumari district, tamil-nadu",11.0600516,77.0679581
+463,"tirunelveli district, tamil-nadu",8.5495014,77.58051775636523
+464,"thiruvallur district, tamil-nadu",13.2533992,80.05462674586394
+465,"theni district, tamil-nadu",9.86925575,77.42229738345591
+466,"ranipet district, tamil-nadu",12.91862425,79.40819212569048
+467,"namakkal district, tamil-nadu",11.303388949999999,78.1186040211884
+468,"vellore district, tamil-nadu",12.9009299,79.06148441803552
+469,"thiruvarur district, tamil-nadu",10.6878621,79.49794371209825
+470,"nalgonda district, telangana",17.0557615,79.2779955
+471,"nizamabad district, telangana",18.6687404,78.0989938
+472,"adilabad district, telangana",19.1040149,78.340105
+473,"wanaparthy district, telangana",16.3637095,78.0647251
+474,"vikarabad district, telangana",17.3309201,77.9186433
+475,"mahbubnagar district, telangana",16.5,78.25
+476,"kamareddy district, telangana",18.316551,78.05393808043348
+477,"karimnagar district, telangana",18.796829,78.921748
+478,"siddipet district, telangana",18.03098145,78.8783964556235
+479,"khammam district, telangana",17.250782,80.1524
+480,"unakoti district, tripura",24.304628,92.033346
+481,"khowai district, tripura",24.0715915,91.6025823
+482,"north tripura district, tripura",23.9922833,91.856786
+483,"dhalai district, tripura",23.9551603,91.8252174
+484,"south tripura district, tripura",23.5,91.666667
+485,"gomati district, tripura",23.4848604,91.4983684
+486,"west tripura district, tripura",23.916667,91.5
+487,"amethi district, uttar-pradesh",26.1561764,81.80450839427581
+488,"aligarh district, uttar-pradesh",27.87698975,78.13729027600994
+489,"mahoba district, uttar-pradesh",25.292924,79.8848158
+490,"lucknow district, uttar-pradesh",28.8067822,79.0140742
+491,"hathras district, uttar-pradesh",27.5996322,78.0497369
+492,"budaun district, uttar-pradesh",28.027692,79.1254409
+493,"moradabad district, uttar-pradesh",29.0786044,79.0507168
+494,"kushinagar district, uttar-pradesh",26.8632735,83.9553228
+495,"baghpat district, uttar-pradesh",28.9464293,77.2170076
+496,"shahjahanpur district, uttar-pradesh",27.8552433,79.8944047
+497,"ambedkar nagar district, uttar-pradesh",28.6400895,77.42868
+498,"bahraich district, uttar-pradesh",27.5727012,81.6061717
+499,"jalaun district, uttar-pradesh",26.0,79.5
+500,"rampur district, uttar-pradesh",28.79406825,79.1859304458554
+501,"ballia district, uttar-pradesh",25.7506229,84.1472
+502,"kasganj district, uttar-pradesh",27.969777,78.5981655
+503,"varanasi district, uttar-pradesh",25.1297376,82.6059987
+504,"gautam buddha nagar district, uttar-pradesh",28.5770068,77.3394731
+505,"basti district, uttar-pradesh",28.630261,77.4133068
+506,"maharajganj district, uttar-pradesh",27.1436733,83.5395965
+507,"etawah district, uttar-pradesh",26.7879984,79.0061831
+508,"etah district, uttar-pradesh",27.5562222,78.658988
+509,"banda district, uttar-pradesh",25.4892744,80.33507542764347
+510,"bijnor district, uttar-pradesh",29.3843229,78.13645
+511,"hardoi district, uttar-pradesh",28.0047122,78.476874
+512,"balrampur district, uttar-pradesh",28.0990326,79.5401573
+513,"pilibhit district, uttar-pradesh",28.495207649999998,80.10754080018077
+514,"mainpuri district, uttar-pradesh",27.2307398,79.0406375
+515,"jaunpur district, uttar-pradesh",25.7592013,82.6968142
+516,"kaushambi district, uttar-pradesh",28.6452857,77.3243429
+517,"hapur district, uttar-pradesh",28.7299677,77.775499
+518,"hamirpur district, uttar-pradesh",25.9572127,80.1446414
+519,"meerut district, uttar-pradesh",28.7417261,77.4681066
+520,"mathura district, uttar-pradesh",27.5591791,77.68175451707637
+521,"chitrakoot district, uttar-pradesh",25.19631215,80.91390945066726
+522,"lalitpur district, uttar-pradesh",24.6967125,78.411697
+523,"mau district, uttar-pradesh",25.2133779,83.0334827
+524,"mirzapur district, uttar-pradesh",24.9325993,82.64710860698771
+525,"gonda district, uttar-pradesh",27.8306549,77.8773701
+526,"jhansi district, uttar-pradesh",28.6839951,77.4530398
+527,"pratapgarh district, uttar-pradesh",25.9221279,81.9986835
+528,"saharanpur district, uttar-pradesh",29.95566895,77.5596488632492
+529,"bara banki district, uttar-pradesh",26.9013312,81.2151601
+530,"bareilly district, uttar-pradesh",28.457876,79.40557093743058
+531,"sitapur district, uttar-pradesh",28.3548882,79.4185378
+532,"sultanpur district, uttar-pradesh",26.2627557,82.069966
+533,"agra district, uttar-pradesh",27.1705419,78.0107255
+534,"rae bareli district, uttar-pradesh",26.25,81.25
+535,"firozabad district, uttar-pradesh",28.3800183,79.4181912
+536,"kheri district, uttar-pradesh",28.4299696,80.3176448
+537,"gorakhpur district, uttar-pradesh",26.7494212,83.3665766
+538,"unnao district, uttar-pradesh",26.5,80.5
+539,"prayagraj district, uttar-pradesh",25.5,81.5
+540,"ghazipur district, uttar-pradesh",28.6643991,77.3208548
+541,"farrukhabad district, uttar-pradesh",27.3817304,79.602854
+542,"azamgarh district, uttar-pradesh",26.0637645,83.1833871
+543,"deoria district, uttar-pradesh",28.3778393,79.9337825
+544,"ghaziabad district, uttar-pradesh",28.711241,77.4445372
+545,"haridwar district, uttarakhand",30.1921734,79.1874877
+546,"champawat district, uttarakhand",29.3321606,80.0928787
+547,"nainital district, uttarakhand",29.2185482,79.52951525
+548,"chamoli district, uttarakhand",30.499632300000002,79.61879245944404
+549,"almora district, uttarakhand",30.6309236,78.1603603
+550,"uttarkashi district, uttarakhand",30.9654214,78.63368731187963
+551,"pithoragarh district, uttarakhand",30.12666775,80.48338013734374
+552,"rudraprayag district, uttarakhand",30.2864682,78.9814996
+553,"pauri garhwal district, uttarakhand",30.1507888,78.7737617
+554,"tehri garhwal district, uttarakhand",30.5,78.666667
+555,"uttar dinajpur district, west-bengal",25.6098202,88.1327333
+556,"kalimpong district, west-bengal",27.02787695,88.64606085772425
+557,"murshidabad district, west-bengal",24.086328549999998,88.26684963941861
+558,"paschim medinipur district, west-bengal",21.8360051,87.4317229
+559,"jalpaiguri district, west-bengal",26.626483649999997,88.73407701468993
+560,"purulia district, west-bengal",23.3409582,86.359433
+561,"bankura district, west-bengal",23.0662415,87.3251923
+562,"jhargram district, west-bengal",22.447609,86.998449
+563,"howrah district, west-bengal",22.5801698,88.3362713
+564,"hooghly district, west-bengal",22.8924411,88.3994271
+565,"kolkata district, west-bengal",26.5257678,88.7198637
+566,"koch bihar district, west-bengal",26.25,89.5
+567,"alipurduar district, west-bengal",26.4811994,89.5279728
+568,"nadia district, west-bengal",23.4056806,88.4913312
+569,"birbhum district, west-bengal",24.0,87.583333
+570,"purba medinipur district, west-bengal",22.2788123,87.92250435718134
+571,"maldah district, west-bengal",25.0,88.0
+572,"darjiling district, west-bengal",26.75,88.25
+573,"anjaw district, arunachal-pradesh",28.1114301,96.82699963398373
